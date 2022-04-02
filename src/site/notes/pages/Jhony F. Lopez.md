@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/jhony-f-lopez/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/pages/jhony-f-lopez/"}
 ---
 
 title:: Jhony F. Lopez

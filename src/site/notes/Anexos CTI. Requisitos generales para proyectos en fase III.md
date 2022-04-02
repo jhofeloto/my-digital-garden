@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anexos-cti-requisitos-generales-para-proyectos-en-fase-iii/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/anexos-cti-requisitos-generales-para-proyectos-en-fase-iii/"}
 ---
 
 

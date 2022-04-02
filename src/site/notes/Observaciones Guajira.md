@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/observaciones-guajira/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/observaciones-guajira/"}
 ---
 
 # Observaciones       
